@@ -149,6 +149,6 @@ by Vizuara
 
 The video provides an intuitive introduction to PINNs and a step-by-step implementation, which helped shape the structure of this project.
 
-🔗 Watch here: https://www.youtube.com/watch?v=your-link-here
+🔗 Watch here: [https://www.youtube.com/watch?v=your-link-here](https://www.youtube.com/watch?v=1AyAia_NZhQ&t=1388s)
 
 
